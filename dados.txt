@@ -1,0 +1,5 @@
+Cavaleiro de Pégasus  = Seiya
+Cavaleiro de Dragão = Shiryu
+Cavaleiro de Cisne = Hyoga
+Cavaleiro de Andrômeda = Shun
+Cavaleiro de Fênix = Ikki
